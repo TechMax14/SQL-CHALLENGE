@@ -1,2 +1,2 @@
-# SQL-CHALLENGE
+# sql-challenge
 HW7
