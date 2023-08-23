@@ -8,3 +8,5 @@ Resources:
 - postgreSQL and pgAdmin4 (which had to be re-downloaded several times throughout this assignment)
 - notepad for query storage
 - github for file sharing
+
+*** assignment is late due to the fact I was away from my PC the week of this assignment, my apologies. 
